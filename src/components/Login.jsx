@@ -24,10 +24,12 @@ export default function Login({ onIdSubmit }){
           <label>Password</label>
         </div>
         <button type="submit">
+          
           {/* <span></span>
           <span></span>
           <span></span>
           <span></span> */}
+          
           Submit
         </button>
       </form>
